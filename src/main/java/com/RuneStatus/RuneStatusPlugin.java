@@ -59,7 +59,7 @@ public class RuneStatusPlugin extends Plugin
 	{
 		try
 		{
-			URL url = new URL("http://yourwebsite.com/api/toggle");
+			URL url = new URL("https://RuneStatus.com/api/toggle");
 			HttpURLConnection http = (HttpURLConnection)url.openConnection();
 			http.setRequestMethod("POST");
 			http.setDoOutput(true);
