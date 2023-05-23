@@ -10,7 +10,7 @@ public interface ExampleConfig extends Config
 	@ConfigItem(
 		keyName = "greeting",
 		name = "Welcome Greeting",
-		description = "The message to show to the user when they login"
+		description = "Test for Github"
 	)
 	default String greeting()
 	{
