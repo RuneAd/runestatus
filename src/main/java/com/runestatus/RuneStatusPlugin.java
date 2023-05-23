@@ -17,7 +17,7 @@ import java.nio.charset.StandardCharsets;
 
 @Slf4j
 @PluginDescriptor(
-	name = "RuneStatus"
+	name = "runestatus"
 )
 
 // TODO: If handle server sends too much data, reduce bits for testing (Will use faster JSON method to capture data). Don't want to slow down RuneLite.
