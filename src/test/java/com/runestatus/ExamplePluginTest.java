@@ -1,4 +1,4 @@
-package com.RuneStatus;
+package com.runestatus;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

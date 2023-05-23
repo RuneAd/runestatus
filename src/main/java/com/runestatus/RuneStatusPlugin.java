@@ -1,4 +1,4 @@
-package com.RuneStatus;
+package com.runestatus;
 
 import javax.inject.Inject;
 import javax.swing.*;
